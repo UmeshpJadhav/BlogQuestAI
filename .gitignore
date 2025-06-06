@@ -24,6 +24,7 @@ dist/
 .next/
 out/
 *.egg-info/
+docker-compose.yml
 
 # Misc
 .DS_Store
