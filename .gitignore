@@ -69,7 +69,7 @@ mongodb.log
 
 # Docker
 .docker/
-docker-compose.override.yml
+docker-compose.yml
 
 # System Files
 Thumbs.db
